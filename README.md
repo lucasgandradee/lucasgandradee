@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Bacharel em Ciência da Computação na UNICSUL<br><br>📚 Cursando Pós-Graduação em Data Analytics  FIAP ⟳<br><br>🌍 Sempre Estudando e conhecendo novas tecnologias.<br><br>🌐 Conecte-se comigo no LinkedIn https://www.linkedin.com/in/lucasagandrade/</p>
+<p align="left">📚 Bacharel em Ciência da Computação na UNICSUL<br><br>📚 Cursando Pós-Graduação em Data Analytics na FIAP ⟳<br><br>🌍 Sempre Estudando e conhecendo novas tecnologias.<br><br>🌐 Conecte-se comigo no LinkedIn https://www.linkedin.com/in/lucasagandrade/</p>
 
 ###
 
