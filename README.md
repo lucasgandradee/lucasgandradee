@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">📚 Bacharel em Ciência da Computação <br><br>📚 Cursando Pós-Graduação em Data Analytics ⟳<br><br>🌱Atualmente estou estudando sobre Programação e Análise/Ciência de Dados Python, SQL, REST APIs, DJANGO<br><br>🌐 Conecte-se comigo no LinkedIn https://www.linkedin.com/in/lucasagandrade/</p>
+<p align="left">📚 Bacharel em Ciência da Computação na UNICSUL<br><br>📚 Cursando Pós-Graduação em Data Analytics  FIAP ⟳<br><br>🌍 Sempre Estudando e conhecendo novas tecnologias.<br><br>🌐 Conecte-se comigo no LinkedIn https://www.linkedin.com/in/lucasagandrade/</p>
+
+###
+
+<h2 align="left">Tecnologias e linguagens 💻</h2>
 
 ###
 
@@ -44,11 +48,27 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasgandradee/lucasgandradee/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasgandradee/lucasgandradee/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasgandradee/lucasgandradee/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h2 align="left">📚 O Que Ando Estudando</h2>
+
+###
+
+<p align="left">- Atualmente estou na Fase 2/5 da minha pós-graduação, onde estamos aprendendo sobre modelos Machine Learning. <br>- Também estou fazendo cursos sobre programação em Python, Orientação a Objetos, REST API e Django.<br>- Além disso, aos sábados faço curso sobre Arduino no SENAC.</p>
 
 ###
 
